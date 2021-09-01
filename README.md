@@ -46,6 +46,7 @@ Connect with me:
 ## Experience
 
 > Product Specialist - [**Cognizant, India**](https://www.cognizant.com)
+
 > Content Writer - [**EduCBA, India**](https://www.educba.com)
 
 
