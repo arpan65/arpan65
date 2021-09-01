@@ -51,13 +51,13 @@ Connect with me:
 - [Mask Adaptivity Tracking Using Computer Vision](https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29?source=user_profile---------0----------------------------&gi=78f7f868ddf5)
 
 - [Scanned Document Classification using Computer Vision](https://towardsdatascience.com/scanned-document-classification-using-computer-vision-33a42d9e01f9)
-
+- [Malware Classification using Machine Learning](https://towardsdatascience.com/malware-classification-using-machine-learning-7c648fb1da79)
 
 
 
 ## Connect with me
 
-I am currently looking for new opportunities. My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
+My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-das-534753125/)](https://www.linkedin.com/in/arpan-das-534753125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandas65.a3@gmail.com)
