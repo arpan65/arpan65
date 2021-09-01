@@ -22,7 +22,7 @@ Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-das-534753125)](https://www.linkedin.com/in/arpan-das-534753125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandas65.a3@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@arpandas65.a3)](https://medium.com/@arpandas65.a3)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arpandas65)](https://www.kaggle.com/kritikseth) 
+ 
 
 <!-- ---- -->
 
@@ -62,7 +62,7 @@ My inbox is always open, whether you have a question or just want to say hi, you
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-das-534753125/)](https://www.linkedin.com/in/arpan-das-534753125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandas65.a3@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@arpandas65.a3)](https://medium.com/@arpandas65.a3)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arpandas65)](https://www.kaggle.com/kritikseth) 
+ 
 
 <!-- section - social media icons -->
 
