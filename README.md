@@ -5,10 +5,10 @@
 [3.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/medium39.png (medium)
 [4.1]: https://github.com/kritikseth/kritikseth/blob/master/assets/icons/kaggle42.png (kaggle)
 
-[1]: https://www.linkedin.com/in/kritikseth
+[1]: https://www.linkedin.com/in/arpan-das-534753125
 [2]: mailto:arpandas65.a3@gmail.com
-[3]: https://medium.com/@kritikseth
-[4]: https://www.kaggle.com/kritikseth
+[3]: https://medium.com/@arpandas65.a3
+[4]: https://www.kaggle.com/arpandas65
 
 Hi, my name is **Arpan Das** and I am a **Tech Professional** based in Kolkata, India. 
 
@@ -22,7 +22,7 @@ Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-das-534753125)](https://www.linkedin.com/in/arpan-das-534753125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandas65.a3@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@arpandas65.a3)](https://medium.com/@arpandas65.a3)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kritikseth)](https://www.kaggle.com/kritikseth) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arpandas65)](https://www.kaggle.com/kritikseth) 
 
 <!-- ---- -->
 
@@ -62,7 +62,7 @@ My inbox is always open, whether you have a question or just want to say hi, you
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-das-534753125/)](https://www.linkedin.com/in/arpan-das-534753125/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpandas65.a3@gmail.com)](mailto:arpandas65.a3@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@arpandas65.a3)](https://medium.com/@@arpandas65.a3)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kritikseth)](https://www.kaggle.com/kritikseth) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arpandas65)](https://www.kaggle.com/kritikseth) 
 
 <!-- section - social media icons -->
 
@@ -70,7 +70,7 @@ My inbox is always open, whether you have a question or just want to say hi, you
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=arpan65&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kritikseth&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arpan65&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
 </p>
 
 
