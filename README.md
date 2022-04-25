@@ -18,8 +18,9 @@ I am an AWS Certified Developer associated and Duckcreek Certified Claims Config
 
 I also love to write blogs on data science.
 
+Visit my Website - https://www.theconfusedtechie.com/
+Visit my portfolio - https://arpan65.github.io/portfolio/
 
-Visit my website- https://arpan65.github.io/portfolio/
 
 Connect with me:
 
