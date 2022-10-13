@@ -10,9 +10,9 @@
 [3]: https://medium.com/@arpandas65.a3
 [4]: https://www.kaggle.com/arpandas65
 
-Hi, my name is **Arpan** and I am a **Tech Professional** based in Kolkata, India. 
+Hi, my name is **Arpan** and I am a **Tech Professional/Consultant** based in Kolkata, India. 
 
-I help developing scalable data and Integration solutions using Python scientific libraries and AWS cloud computing services, with 5+ years experience serving the P&C Insurance and Document Intelligence sector. 
+I help Companies developing scalable data and Integration solutions using Python scientific libraries and AWS cloud computing services, with 5+ years experience serving the P&C Insurance and Document Intelligence sector. 
 
 I am an AWS Certified Developer associated and Duckcreek Certified Claims Configurator.
 
