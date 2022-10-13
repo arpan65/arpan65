@@ -80,7 +80,3 @@ My inbox is always open, whether you have a question or just want to say hi, you
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arpan65&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
 </p>
 
-
-<p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=arpan65.visitor-badge">
-<p/>
