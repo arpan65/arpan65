@@ -76,7 +76,7 @@ My inbox is always open, whether you have a question or just want to say hi, you
 ## GitHub Statistics
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=arpan65&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=arpan65&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arpan65&hide=css,java,html&title_color=fff&bg_color=151515&theme=tokyonight">
 </p>
 
