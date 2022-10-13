@@ -37,10 +37,10 @@ Connect with me:
 ## Areas I can help
 
 * Machine Learning
+* AWS(Solution Engineering, Analytics) 
 * Deep Learning
 * Statistics
 * Data Visualisation
-* AWS
 * Duckcreek Claims
 * SQL
 
