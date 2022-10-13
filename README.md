@@ -12,7 +12,7 @@
 
 Hi, my name is **Arpan** and I am a **Tech Professional** based in Kolkata, India. 
 
-I build machine-learning and Integration solutions using Python scientific libraries and AWS cloud computing services, with 4+ years experience serving the P&C Insurance and Document Intelligence sector. 
+I build data and Integration solutions using Python scientific libraries and AWS cloud computing services, with 5+ years experience serving the P&C Insurance and Document Intelligence sector. 
 
 I am an AWS Certified Developer associated and Duckcreek Certified Claims Configurator.
 
