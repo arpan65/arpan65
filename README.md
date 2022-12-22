@@ -47,13 +47,13 @@ Connect with me:
 
 ## Experience
 
-> Sr. Associate, Projects - [**Cognizant, India**](https://www.cognizant.com)
+> Sr. Product Specialist - [**Cognizant, India**](https://www.cognizant.com)
 
 > Content Writer - [**EduCBA, India**](https://www.educba.com)
 
 
 
-## Articles I have written
+## Recent articles
 
 - [Mask Adaptivity Tracking Using Computer Vision](https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29?source=user_profile---------0----------------------------&gi=78f7f868ddf5)
 
