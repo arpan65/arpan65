@@ -60,6 +60,7 @@ Connect with me:
 - [Scanned Document Classification using Computer Vision](https://towardsdatascience.com/scanned-document-classification-using-computer-vision-33a42d9e01f9)
 - [Malware Classification using Machine Learning](https://towardsdatascience.com/malware-classification-using-machine-learning-7c648fb1da79)
 - [Develop a Customer Review Analysis Platform from scratch](https://www.analyticsvidhya.com/blog/2021/06/develop-a-customer-review-analysis-platform-from-scratch/)
+- [Crafting Serverless ETL Pipeline Using AWS Glue and PySpark](https://www.analyticsvidhya.com/blog/2022/12/crafting-serverless-etl-pipeline-using-aws-glue-and-pyspark/)
 
 
 ## Connect with me
