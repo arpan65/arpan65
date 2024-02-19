@@ -12,7 +12,7 @@
 
 Hi, my name is **Arpan** and I am a **Tech Professional/Consultant** based in Kolkata, India. 
 
-I help Companies developing scalable data and Integration solutions using AWS cloud computing services, with 5+ years experience in the P&C Insurance and Document Intelligence sector. 
+I help companies develop scalable data and Integration solutions using AWS cloud computing services, with 6+ years of experience in the P&C Insurance and Document Intelligence sector. 
 
 I am an AWS Certified Machine Learning Specialist, Developer associate and Duckcreek Certified Claims Configurator.
 
@@ -37,14 +37,14 @@ Connect with me:
 * Machine Learning
 * AWS(Solution Engineering, Analytics) 
 * Deep Learning
-* Statistics
+* System Integration
 * Data Visualisation
-* Duckcreek Claims
+* Duckcreek
 * SQL
 
 
 ## Experience
-
+> Specialist, Product Engineering - [**LTIMindtree, India**](https://www.ltimindtree.com/)
 > Sr. Product Specialist - [**Cognizant, India**](https://www.cognizant.com)
 
 > Content Writer - [**EduCBA, India**](https://www.educba.com)
