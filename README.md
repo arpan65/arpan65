@@ -44,7 +44,8 @@ Connect with me:
 
 
 ## Experience
-> Specialist, Product Engineering - [**LTIMindtree, India**](https://www.ltimindtree.com/)
+> Specialist, Product Engineering - [**LTIMindtree, India**](https://www.ltimindtree.com)
+
 > Sr. Product Specialist - [**Cognizant, India**](https://www.cognizant.com)
 
 > Content Writer - [**EduCBA, India**](https://www.educba.com)
