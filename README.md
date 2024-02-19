@@ -18,9 +18,7 @@ I am an AWS Certified Machine Learning Specialist, Developer associate and Duckc
 
 I also love to write blogs on data science.
 
-Visit my Website - https://www.theconfusedtechie.com/
 
-Visit my portfolio - https://arpan65.github.io/portfolio/
 
 
 Connect with me:
