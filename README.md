@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I specialize in **AWS Cloud**, **Data Engineering**, and **DuckCreek Integration**
-- 🧠 6+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
+- 🔭 I specialize in **Cloud**, **Data Engineering**, and **DuckCreek Integration**
+- 🧠 7+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
 - 🧪 Certified in:
   - AWS Certified Machine Learning – Specialty
-  - AWS Certified Developer – Associate
+  - AWS Certified Data Engineer – Associate
   - DuckCreek Claims Configurator
 - ✍️ I regularly write technical articles on **Medium** and **Analytics Vidhya**
 - 📍 Based in Mississauga, Canada | Originally from Kolkata, India
@@ -29,11 +29,12 @@
 
 ### 🚀 Areas of Expertise
 
-- 🧠 Machine Learning & Deep Learning
-- ☁️ AWS (Serverless, Glue, Redshift, S3, Lambda)
+
+- ☁️ AWS/Azure
 - 📊 Data Engineering & Visualization
 - 🧱 System & Cloud Integration
 - 🧾 DuckCreek Policy/Claims Config
+- 🧠 Machine Learning
 - 🛠️ SQL, Python, .NET, Event-Driven Architectures
 
 ---
@@ -47,7 +48,7 @@
 ---
 
 ### ✍️ Recent Blog Posts
-
+- [🤖 How to Build RAG Chatbot for Insurance](https://www.analyticsvidhya.com/blog/2024/06/rag-chatbot-for-insurance/)
 - [🧠 Mask Adaptivity Tracking Using Computer Vision](https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29)
 - [📄 Scanned Document Classification Using CV](https://towardsdatascience.com/scanned-document-classification-using-computer-vision-33a42d9e01f9)
 - [🦠 Malware Classification using ML](https://towardsdatascience.com/malware-classification-using-machine-learning-7c648fb1da79)
