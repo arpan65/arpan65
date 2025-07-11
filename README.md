@@ -47,12 +47,14 @@
 ---
 
 ### ✍️ Recent Blog Posts
-- [🤖 How to Build RAG Chatbot for Insurance](https://www.analyticsvidhya.com/blog/2024/06/rag-chatbot-for-insurance/)
-- [🧠 Mask Adaptivity Tracking Using Computer Vision](https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29)
-- [📄 Scanned Document Classification Using CV](https://towardsdatascience.com/scanned-document-classification-using-computer-vision-33a42d9e01f9)
-- [🦠 Malware Classification using ML](https://towardsdatascience.com/malware-classification-using-machine-learning-7c648fb1da79)
-- [🧾 Customer Review Analysis Platform](https://www.analyticsvidhya.com/blog/2021/06/develop-a-customer-review-analysis-platform-from-scratch/)
-- [⚙️ Serverless ETL with AWS Glue & PySpark](https://www.analyticsvidhya.com/blog/2022/12/crafting-serverless-etl-pipeline-using-aws-glue-and-pyspark/)
+- [☁️ Transforming Insurance Data Architecture with AWS: A Complete Modern Data Lake Portfolio Project](https://medium.com/@arpandas65/transforming-insurance-data-architecture-with-aws-a-complete-modern-data-lake-portfolio-project-27b18701f1d9)  
+- [🤖 How to Build RAG Chatbot for Insurance](https://www.analyticsvidhya.com/blog/2024/06/rag-chatbot-for-insurance/)  
+- [🧠 Mask Adaptivity Tracking Using Computer Vision](https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29)  
+- [📄 Scanned Document Classification Using CV](https://towardsdatascience.com/scanned-document-classification-using-computer-vision-33a42d9e01f9)  
+- [🦠 Malware Classification using ML](https://towardsdatascience.com/malware-classification-using-machine-learning-7c648fb1da79)  
+- [🧾 Customer Review Analysis Platform](https://www.analyticsvidhya.com/blog/2021/06/develop-a-customer-review-analysis-platform-from-scratch/)  
+- [⚙️ Serverless ETL with AWS Glue & PySpark](https://www.analyticsvidhya.com/blog/2022/12/crafting-serverless-etl-pipeline-using-aws-glue-and-pyspark/)  
+
 
 ---
 
@@ -73,5 +75,4 @@
   <a href="https://www.linkedin.com/in/arpan-das-534753125/">LinkedIn</a> •
   <a href="mailto:arpandas65.a3@gmail.com">Email</a> •
   <a href="https://medium.com/@arpandas65.a3">Medium</a> •
-  <a href="https://www.kaggle.com/arpandas65">Kaggle</a>
 </p>
