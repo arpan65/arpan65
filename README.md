@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Das</h1>
 <p align="center">
-  <em>Tech Consultant • Cloud Enthusiast • Machine Learning Advocate</em>
+  <em>Tech Consultant | Cloud | Data Engineering | Integration | DuckCreek </em>
 </p>
 
 <p align="center">
@@ -32,6 +32,9 @@
 - ☁️ AWS/Azure
 - 📊 Data Engineering & Visualization
 - 🧱 System & Cloud Integration
+- 🧱 PySpark
+- Snowflake
+- DBT
 - 🧾 DuckCreek Policy/Claims Config
 - 🧠 Machine Learning
 - 🛠️ SQL, Python, .NET, Event-Driven Architectures
