@@ -16,9 +16,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I specialize in **Cloud**, **Data Engineering**, and **DuckCreek Integration**
-- 🧠 7+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
+- 🧠 8+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
 - 🧪 Certified in:
-  - AWS Certified Machine Learning – Specialty
+  - Snowflake SnowPro Core
   - AWS Certified Data Engineer – Associate
   - DuckCreek Claims Configurator
 - ✍️ I regularly write technical articles on **Medium** and **Analytics Vidhya**
