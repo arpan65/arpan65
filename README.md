@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Das</h1>
 <p align="center">
-  <em>Tech Consultant | Cloud | Data Engineering | Integration | DuckCreek </em>
+  <em>Tech Consultant | Cloud | AI | Data Engineering | Integration | DuckCreek </em>
 </p>
 
 <p align="center">
@@ -16,8 +16,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I specialize in **Cloud**, **Data Engineering**, and **DuckCreek Integration**
-- 🧠 8+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
+- 🧠 9+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
 - 🧪 Certified in:
+  - Claude certified Architect
   - Snowflake SnowPro Core
   - AWS Certified Data Engineer – Associate
   - DuckCreek Claims Configurator
@@ -30,20 +31,20 @@
 
 
 - ☁️ AWS/Azure
+- 🧠 Applied AI
 - 📊 Data Engineering & Visualization
 - 🧱 System & Cloud Integration
 - 🧱 PySpark
 - Snowflake
 - DBT
 - 🧾 DuckCreek Policy/Claims Config
-- 🧠 Machine Learning
 - 🛠️ SQL, Python, .NET, Event-Driven Architectures
 
 ---
 
 ### 💼 Experience
 
-- **Specialist - Product Engineering** @ [LTIMindtree](https://www.ltimindtree.com)
+- **Sr.Specialist - Product Engineering** @ [LTM](https://www.ltimindtree.com)
 - **Sr. Product Specialist** @ [Cognizant](https://www.cognizant.com)
 - **Technical Content Writer** @ [EduCBA](https://www.educba.com)
 
