@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I specialize in **Cloud**, **Data Engineering**, and **DuckCreek Integration**
+- 🔭 I specialize in **Cloud, Applied AI**, **Data Engineering**, and **DuckCreek Integration**
 - 🧠 9+ years experience in **P&C Insurance**, **Document Intelligence**, and **System Integration**
 - 🧪 Certified in:
   - Claude certified Architect
